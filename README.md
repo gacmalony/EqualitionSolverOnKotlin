@@ -1,4 +1,4 @@
-THIS APP Bringing to Screen the roots of formula which created from your wroted numbers. 
+THIS APP Bringing to Screen the roots of formula which created from wrote numbers by user.
 
 
 
